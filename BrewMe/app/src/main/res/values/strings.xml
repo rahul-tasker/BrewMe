@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Brew Me</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Brew Me</string>
+    <string name="nav_header_subtitle">Find Your Breweries</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mapWelcome">Find your Brewery!</string>
+    <string name="instructions">Click on a marker for details!</string>
+    <string name="app_instructions">
+        - Filter from the home page using the top right navigation button
+        \n    - Valid type filters: micro, regional, brewpub, large, planning, bar, contract, proprietor
+        \n    (Note: Filters save unless deleted)
+    \n\n- Click a cell to see details
+    \n\n- Long Click a cell to go to map
+    \n\n- Click map info window to go to brewery website
+    \n\n- Long click map info window to add this brewery to saved
+    \n\n- In saved click cell to see website or long click to delete</string>
+</resources>

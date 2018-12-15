@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cityFilter"
+        android:orderInCategory="100"
+        android:title="Filter by City"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nameFilter"
+        android:orderInCategory="100"
+        android:title="Filter by Name"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/stateFilter"
+        android:orderInCategory="100"
+        android:title="Filter by State"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/typeFilter"
+        android:orderInCategory="100"
+        android:title="Filter by Type"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/clearFilter"
+        android:orderInCategory="100"
+        android:title="Clear Filters"
+        app:showAsAction="never" />
+</menu>
